@@ -1,3 +1,5 @@
+
+
 export default function HomePage() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-center bg-gradient-to-br from-blue-50 via-white to-green-50 text-gray-800 p-6">
@@ -29,4 +31,3 @@ export default function HomePage() {
     </main>
   );
 }
-
